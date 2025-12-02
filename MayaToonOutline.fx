@@ -1,7 +1,6 @@
 // MAYA TOON OUTLINE SHADER
 // Version: 1.2
-// Author: kamone
-// Usage: https://github.com/kamone416/MayaToonOutlineShader
+// Usage: https://github.com/pelcman/MayaToonOutlineShaderAlt
 
 #define NumberOfMipMaps 0
 #define PI 3.1415926
